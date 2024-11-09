@@ -129,5 +129,8 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-input
+input/*
+!/input/.gitkeep
+!/input/cookies.example.json
+!/input/pr.example.json
 screenshots

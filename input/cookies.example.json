@@ -1,0 +1,28 @@
+[
+    {
+        "domain": "github.com",
+        "expirationDate": 1732356582.653122,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "__Host-user_session_same_site",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": ""
+    },
+    {
+        "domain": ".github.com",
+        "expirationDate": 1762682982.303398,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "dotcom_user",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "tieule"
+    },
+]
